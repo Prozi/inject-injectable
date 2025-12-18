@@ -1,6 +1,6 @@
 {
   "name": "inject.min",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "dependency injection made super easy - all you need | lazy register | with override | decorator support",
   "keywords": [
     "DI",
@@ -18,9 +18,9 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "url": "git+ssh://git@github.com/Jackie-Aniki/inject.min.git"
+    "url": "git+ssh://git@github.com/nenjack/inject.min.git"
   },
-  "author": "Jackie-Aniki <Jacek Pietal> <Jackie-Aniki85@gmail.com>",
+  "author": "nenjack <Jacek Pietal> <nenjack85@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {},
